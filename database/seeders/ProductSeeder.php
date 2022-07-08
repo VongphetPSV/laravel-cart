@@ -22,7 +22,7 @@ class ProductSeeder extends Seeder
                 'brand' => 'Apple',
                 'price' => '2499',
                 'shipping_cost' => 25,
-                'image_path' => 'storage/product.png'
+                'image_path' => 'storage/product1.png'
             ],
             [
                 'name' => 'Sumsung Galaxy Book Pro',
@@ -30,7 +30,8 @@ class ProductSeeder extends Seeder
                 'description' => 'PC power thats smartphone thin. Our lightest Galaxy Book yet gives you a powerful Intel® 11th Gen Core™ processor, Intel® Evo™ certification, an advanced AMOLED screen and comes equipped with our latest wi-fi chip. Finish important projects, download huge files fast or watch movies in brilliant color. Discover the perfect mix of portability and productivity.',
                 'brand' => 'Samsung',
                 'price' => '1400',
-                'shipping_cost' => 'storage/product2.png'
+                'shipping_cost' => 25,
+                'image_path' => 'storage/product2.png'
             ],
         ];
 
